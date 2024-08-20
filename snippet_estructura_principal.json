@@ -1,0 +1,14 @@
+{
+	"cc": {
+		"prefix": "cc",
+		"body": [
+			"#include <iostream>\n",
+			"int main(int argc, char *argv[])",
+			"{",
+			"\t$1",
+			"\treturn 0;",
+			"}"
+		],
+		"description": "Generacion de estructura cpp"
+	}
+}
